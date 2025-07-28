@@ -855,7 +855,7 @@ p {
 .content-box-card .available-btn span {
 	font-size: 18px;
 	font-weight: 500;
-	color: var(--primary);
+	color: #1fd41c;
 	background-color: var(--background);
 	padding: 8px 16px 8px 16px;
 	border-radius: 8px;
